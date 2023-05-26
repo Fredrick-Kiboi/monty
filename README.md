@@ -6,13 +6,14 @@ Ensure that you have gcc installed and build the program with bash `./build.bash
 
 ## Supported Opcodes
 | **Name** | **Description** |
-|pop     |Removes the top element of the stack|
-|push    |Pushes an element to the stack. Usage: `push integer`|
-|swap    |Swaps the top two elements of the stack|
-|pall    |Prints all the values on the stack, starting from the top of the stack|
-|add     |Adds the top two elements of the stack|
-|pint    |Prints the value at the top of the stack, followed by a new line|
-|nop     |Does nothing|
+| --- | --- |
+| pop | Removes the top element of the stack |
+| push | Pushes an element to the stack. Usage: `push integer` |
+| swap | Swaps the top two elements of the stack |
+| pall | Prints all the values on the stack, starting from the top of the stack |
+| add | Adds the top two elements of the stack |
+| pint | Prints the value at the top of the stack, followed by a new line |
+| nop | Does nothing |
 
 ## Commenting
 Comments start with the `#` character after all the leading whitespaces have been skipped.
